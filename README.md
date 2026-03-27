@@ -78,6 +78,4 @@ K-Means is a widely used clustering algorithm, but it struggles with high-dimens
 - Use t-SNE or UMAP for non-linear dimensionality reduction
 - Test on larger datasets
 
----
 
-## 📁 Repository Structure
